@@ -117,7 +117,7 @@ We have lots of functions.
 
 > What functions are really Js functions and what not? 
 
-We know that **JS** is a `single-thread` and `synchronous` language. JS does not have the features to access to the computer's internal features. JS engine can not access directly into the network socket, the file system, the CPU neither  the kernel. Instead, We use ***Node** to interact with all these features through JS. 
+We know that **JS** is a `single-thread` and `synchronous` language. JS does not have the features to access to the computer's internal features. JS engine can not access directly into the network socket, the file system, the CPU neither  the kernel. Instead, We use **Node** to interact with all these features through JS. 
 
 ## example.JS
 
@@ -144,8 +144,8 @@ So, We are going to declare some stuffs in the `global memory`:
 
 1. We declare the label `useImportedtweets (1)` in `global memory` to store a *function*
 2. We declare the label `immediately (5)` in `global memory` to store a *function*
-3. We declare the label `printHello (6)` in ``global memory` to store a *function*
-4. We declare the label `blockFor500ms (7)` in ``global memory` to store a *function* 
+3. We declare the label `printHello (6)` in `global memory` to store a *function*
+4. We declare the label `blockFor500ms (7)` in `global memory` to store a *function* 
 
 ### example.Js.stages.second
 
