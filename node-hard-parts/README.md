@@ -123,9 +123,9 @@ We know that **JS** is a `single-thread` and `synchronous` language. JS does not
 
 In JS we have an `execution context`, which is built with:
 
-1. `Global memory`, where it's the declarations
+1. `Global memory` (declaration)
 2. `a single-thread of execution`, where the code is executed
-3. `a call stack`: where functions from JS are being run
+3. `a call stack`: where JS functions are being run
 
 ### example.JS.stages
 
